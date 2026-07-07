@@ -1105,7 +1105,7 @@ ct1, ct2, ct3 = st.columns(3)
 with ct1:
     st.link_button("✉  pulachecarrenojob@gmail.com", "mailto:pulachecarrenojob@gmail.com", width="stretch")
 with ct2:
-    st.link_button("✆  +51 930 938 449 (WhatsApp)", "https://wa.me/51930938449", width="stretch")
+    st.link_button("✆ (WhatsApp)", "https://wa.me/51930938449", width="stretch")
 with ct3:
     st.link_button("↗  linkedin.com/in/jobpulachecarreno", "https://www.linkedin.com/in/jobpulachecarreno/", width="stretch")
 
