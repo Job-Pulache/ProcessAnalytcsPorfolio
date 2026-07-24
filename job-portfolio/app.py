@@ -22,8 +22,8 @@ def img_b64(name: str) -> str:
     return base64.b64encode(p.read_bytes()).decode()
 
 
-PHOTO_NATURAL = img_b64("profile_natural.jpg")
-PHOTO_DUOTONE = img_b64("profile_duotone.jpg")
+PHOTO_NATURAL = img_b64("profileProfessional.jpg")
+PHOTO_DUOTONE = img_b64("profileProfessional.jpg")
 
 # ----------------------------------------------------------------------------
 # THEME STATE
