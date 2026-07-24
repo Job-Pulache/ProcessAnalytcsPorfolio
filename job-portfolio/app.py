@@ -625,7 +625,7 @@ with hero_r:
             <img src="{photo_src}" alt="Job Pulache Carreño"/>
         </div>
         <div class="photo-caption">
-            <span>IMG_PERFIL.JPG</span>
+            <span>Job Pulache Carreño</span>
             <span>PIURA / PE</span>
         </div>
         """,
